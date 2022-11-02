@@ -1,4 +1,4 @@
-# fastapi:- which is used to give fast response from server to client and cient to server.
+# fastapi:- which is used to give fast response from server to client and client to server.
 
 minimalapi using the fastapi to create a crud operations and storing the data into the sqlite3 database.
 for this particular fastapi i have used maily
